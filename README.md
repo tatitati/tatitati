@@ -2,4 +2,5 @@
 
 
 - Currently working in London at SimplyBusiness with an amazing Data Platform team
-- I build streaming and ETL systems
+- I work with streaming, ELT/ETL components and distributed systems
+- Currently I'm having some fun with Kotlin
