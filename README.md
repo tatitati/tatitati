@@ -1,3 +1,4 @@
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tatitati&layout=compact" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tatitati&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
@@ -5,5 +6,5 @@
 - I work with streaming, ELT/ETL components and distributed systems
 
 
-<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tatitati&layout=compact" />
+
 
