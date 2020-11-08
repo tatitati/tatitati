@@ -8,6 +8,4 @@
 - I work with streaming, ELT/ETL components and distributed systems
 
 
-<img src="https://komarev.com/ghpvc/?username=tatitati&color=blue&style=flat-square" align="right" />
-
 <!--START_SECTION:activity-->
