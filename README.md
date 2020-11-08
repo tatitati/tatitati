@@ -6,7 +6,7 @@
 
 
 - Currently working in London at [SimplyBusiness](https://github.com/simplybusiness) with an amazing Data Platform team
-- I work with streaming, ELT/ETL components and distributed systems
+- I work with big data, streaming, ELT/ETL components and distributed systems
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:francis.jaa@tuta.io?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
