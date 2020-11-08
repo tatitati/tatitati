@@ -6,5 +6,5 @@
 - I work with streaming, ELT/ETL components and distributed systems
 
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tatitati&hide=css,html&langs_count=10" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tatitati&hide=css,html&langs_count=10&layout=compact" />
 
