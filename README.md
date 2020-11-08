@@ -5,3 +5,5 @@
 - Currently working in London at [SimplyBusiness](https://github.com/simplybusiness) with an amazing Data Platform team
 - I work with streaming, ELT/ETL components and distributed systems
 
+
+<!--START_SECTION:activity-->
