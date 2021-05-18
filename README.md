@@ -10,6 +10,6 @@
 - I work with big data, streaming, ELT/ETL components and distributed systems
 - Author of [Tab Shout](https://addons.mozilla.org/en-US/firefox/addon/tab-shout/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) firefox extension
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:francis.jaa@tuta.io?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:francis.jaa@protonmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 <!--START_SECTION:activity-->
