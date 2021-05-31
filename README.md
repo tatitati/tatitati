@@ -1,6 +1,7 @@
 
 <a href="https://stackoverflow.com/users/1447456/francisco-albert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10305444/maifee-ul-asad" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/francis_jaa1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="10305444/maifee-ul-asad" height="30" width="30" /></a>
+<a href="https://leetcode.com/tatitati/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="10305444/maifee-ul-asad" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/francisco-albert-albusac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maifee-ul-asad" height="30" width="30" /></a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tatitati&count_private=true&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
